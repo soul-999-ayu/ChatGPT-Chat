@@ -1,0 +1,5 @@
+v1.2 (20th June 2023):
+* Fixed: "}" being shown in response.
+* Fixed: "Reponse copied to clipboard" being added to the querry everytime you tap on response.
+* Added: press "Enter" to search.
+* Fixed some other bugs.
